@@ -16,7 +16,7 @@ Task
 * How does the average trip duration change by age?
 * What is the average distance in miles that a bike is ridden?
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan?
-
+* How variable is the utilization by bike ID?
 
 
 
