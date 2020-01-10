@@ -17,7 +17,7 @@ Task
 * What is the average distance in miles that a bike is ridden?
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan?
 * How variable is the utilization by bike ID?
-
+* A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 
 
 
