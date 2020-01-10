@@ -1,2 +1,2 @@
-# Citi-Bike-Analytics
- 
+# Citi Bike Analytics
+![logo](/PyBank/images/logo.jpg) 
