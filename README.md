@@ -15,6 +15,10 @@ Task
 * How effective has gender outreach been in increasing female ridership over the timespan?
 * How does the average trip duration change by age?
 * What is the average distance in miles that a bike is ridden?
+* Which bikes (by ID) are most likely due for repair or inspection in the timespan?
+
+
+
 
 
 
