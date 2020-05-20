@@ -1,7 +1,7 @@
 # Citi Bike Analytics
 ![logo](/images/logo.jpg)
 
-Task
+Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story, or report.  You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods. The following are some questions you may wish to tackle, especially if you are working with merged datasets. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!
 * How many trips have been recorded total during the chosen period?
 * By what percentage has total ridership grown?
 * How has the proportion of short-term customers and annual subscribers changed?
@@ -20,13 +20,3 @@ Task
 * A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 * If you're working with a merged dataset: a dynamic map that shows how each station's popularity changes over time (by month and year) with commentary pointing to any interesting events that may be behind these phenomena.
 * Find at least two unexpected phenomena in the data and provide a visualization and analysis to document their presence.
-
-
-
-
-
-
-
-
-
-
