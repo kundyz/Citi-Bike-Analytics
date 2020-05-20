@@ -22,4 +22,5 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 * Find at least two unexpected phenomena in the data and provide a visualization and analysis to document their presence.
 
 Output
+
 ![logo](/images/output.PNG)
