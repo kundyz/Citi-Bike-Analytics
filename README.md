@@ -24,3 +24,4 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 Output
 
 ![logo](/images/output.PNG)
+
